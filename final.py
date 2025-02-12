@@ -1,4 +1,4 @@
-from tkinter import *
+mfrom tkinter import *
 from tkinter import messagebox
 import mysql.connector
 from tkinter import ttk
@@ -178,7 +178,7 @@ conn = mysql.connector.connect(
     host='localhost',
     user='root',
     password='1234',
-    database='inventory_syst'
+    database='inventory_system'
 )
 
 # Create the login window
