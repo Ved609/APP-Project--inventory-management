@@ -178,7 +178,7 @@ conn = mysql.connector.connect(
     host='localhost',
     user='root',
     password='1234',
-    database='inventory_system'
+    database='inventory_syst'
 )
 
 # Create the login window
