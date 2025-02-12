@@ -7,7 +7,7 @@ from tkinter import ttk
 authenticated_user = None
 
 def login():
-    global authenticated_
+    global authenticated_user
     username = entry_username.get()
     password = entry_password.get()
 
