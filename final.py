@@ -1,4 +1,4 @@
-from tkinter import *
+mfrom tkinter import *
 from tkinter import messagebox
 import mysql.connector
 from tkinter import ttk
